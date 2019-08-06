@@ -1,0 +1,7 @@
+main: randomtp.core.Plugin
+name: RandomTP
+version: 1.0.0
+website: http://aurilisdev.com/
+author: aurilisdev
+api-version: 1.13
+description: With this plugin you can random teleport into any world!
